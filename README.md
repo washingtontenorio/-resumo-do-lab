@@ -1,4 +1,4 @@
-# -resumo-do-lab
+# resumo-do-lab
 Resumo do overview do Microsoft Azure - Localizando Serviços por Categoria
 
 # Microsoft Azure - Localizando Serviços por Categoria
